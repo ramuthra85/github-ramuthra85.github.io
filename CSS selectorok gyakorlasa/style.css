@@ -1,0 +1,24 @@
+.big {
+    color: blue;
+    background: yellow;
+}
+
+.b326, #b325 {
+    border: 1px green solid;
+    font-weight: bold; 
+    
+
+}
+
+.container {
+    width: 200px;
+}
+
+.b329 {
+    font-weight: bold;
+    background: white;
+}
+
+div:hover {
+    background: orange;
+}
